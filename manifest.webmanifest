@@ -1,0 +1,23 @@
+{
+  "name": "Calcula Negócio PRO",
+  "short_name": "CalcNegPro",
+  "description": "Aplicativo para calcular custos, frete, lucro e preço de venda para comerciantes e revendedores.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/H7tOiCA.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/H7tOiCA.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
